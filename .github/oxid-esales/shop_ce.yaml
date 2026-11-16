@@ -19,6 +19,9 @@ install:
           "oxid-esales/twig-admin-theme": "dev-b-8.0.x-dont-copy-theme-files-composer-plugin-OXDEV-10741",
           "oxid-esales/apex-theme": "dev-b-8.0.x-dont-copy-theme-files-composer-plugin-OXDEV-10741",
           "oxid-esales/oxideshop-composer-plugin": "dev-b-8.0.x-dont-copy-theme-files-composer-plugin-OXDEV-10741"
+        },
+        "require-dev": {
+          "oxid-esales/codeception-modules": "dev-b-8.0.x-dont-copy-theme-files-composer-plugin-OXDEV-10741"
         }
       }
 
